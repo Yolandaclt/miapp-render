@@ -1,0 +1,5 @@
+# Evitar subir certificados o keys sensibles
+**/certs/*.key
+**/certs/*.pem
+*.log
+.env
